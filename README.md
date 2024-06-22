@@ -48,6 +48,6 @@ This project is designed to scrape historical stock data from Yahoo Finance for 
 
 ###### Consists of Metrics: ![image](https://github.com/Afranm/jpm_ms_Power_bi_project/assets/171168413/5b3faf1b-278e-4ff7-a0e2-6078edfa59ae)
 
-###### Charts and Slicer: ![image](https://github.com/Afranm/jpm_ms_Power_bi_project/assets/171168413/f64e4571-bfb4-4d69-a540-832670108c61) ![image](https://github.com/Afranm/jpm_ms_Power_bi_project/assets/171168413/ccce21b5-be2b-4ef7-86aa-9457ae4c65d7)
+###### Charts and Slicer: ![image](https://github.com/Afranm/jpm_ms_Power_bi_project/assets/171168413/f64e4571-bfb4-4d69-a540-832670108c61) ![image](https://github.com/Afranm/jpm_ms_project/assets/171168413/ca094f3e-11a2-4c0d-9bc5-d5ad9cdf8506)
 
 ###### This was the Final Overview: ![image](https://github.com/Afranm/jpm_ms_Power_bi_project/assets/171168413/a90dc27b-a733-44bf-8be2-5e1d2f208dab)
